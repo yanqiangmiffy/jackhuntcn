@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 - 🏆 中移集成首届 OneCity 编程大赛 6/669 优秀奖
 - 🥈 Kaggle Shopee - Price Match Guarantee 44/2426 银牌
 - 🏆 第二届“马栏山杯”国际音频算法大赛邀请赛-盗链识别 5/236 优秀奖
+- 🥈 Kaggle CommonLit Readability Prize 90/3633 银牌
