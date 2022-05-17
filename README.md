@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 
 Kaggle
 
-- 🥈 Kaggle PetFinder.my Adoption Prediction 32/2023 银牌
-- 🥉 Kaggle iMet Collection 2019 - FGVC6 93/521 铜牌
-- 🥈 Kaggle Predicting Molecular Properties 102/2723 银牌 
-- 🥉 Kaggle NFL Big Data Bowl 2019 102/2038 铜牌
-- 🥈 Kaggle University of Liverpool - Ion Switching 45/2618 银牌
-- 🥈 Kaggle SIIM-ISIC Melanoma Classification 155/3314 银牌
-- 🥈 Kaggle Riiid Answer Correctness Prediction 74/3395 银牌
-- 🥈 Kaggle Shopee - Price Match Guarantee 44/2426 银牌
-- 🥈 Kaggle CommonLit Readability Prize 90/3633 银牌
+- 🥈 PetFinder.my Adoption Prediction 32/2023 银牌
+- 🥉 iMet Collection 2019 - FGVC6 93/521 铜牌
+- 🥈 Predicting Molecular Properties 102/2723 银牌 
+- 🥉 NFL Big Data Bowl 2019 102/2038 铜牌
+- 🥈 University of Liverpool - Ion Switching 45/2618 银牌
+- 🥈 SIIM-ISIC Melanoma Classification 155/3314 银牌
+- 🥈 Riiid Answer Correctness Prediction 74/3395 银牌
+- 🥈 Shopee - Price Match Guarantee 44/2426 银牌
+- 🥈 CommonLit Readability Prize 90/3633 银牌
 - 🥈 Optiver Realized Volatility Prediction 190/3852 银牌
 - 🥈 Feedback Prize - Evaluating Student Writing 77/2060 银牌
 - 🏅 NBME - Score Clinical Patient Notes 8/1471 金牌
