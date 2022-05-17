@@ -33,6 +33,7 @@ Kaggle
 - 🥈 Kaggle CommonLit Readability Prize 90/3633 银牌
 - 🥈 Optiver Realized Volatility Prediction 190/3852 银牌
 - 🥈 Feedback Prize - Evaluating Student Writing 77/2060 银牌
+- 🏅 NBME - Score Clinical Patient Notes 8/1471 金牌
 
 国内
 
